@@ -11,7 +11,6 @@ My Particle System uses a number of open source projects to work properly:
 
 ### Illustration
 
-![](Images/Picture1.PNG)
-![](Images/Picture2.PNG)
-![](Images/Picture3.PNG)
-![](Images/Picture4.PNG)
+![](images/Picture1.PNG)
+![](images/Picture2.PNG)
+![](images/Picture3.PNG)
