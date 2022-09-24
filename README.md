@@ -7,7 +7,7 @@ The project was made doing highschool/college or 'Gymnasie' in Danish. This is a
 
 My Particle System uses a number of open source projects to work properly:
 * [ImGui](https://github.com/ocornut/imgui) - User-Interface.
-* [SDL](https://www.libsdl.org/) - Window related
+* [SDL](https://www.libsdl.org/) - Graphical-User-Interface
 
 ### Illustration
 
