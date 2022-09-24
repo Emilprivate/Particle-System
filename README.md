@@ -14,4 +14,3 @@ My Particle System uses a number of open source projects to work properly:
 ![](Images/Picture1.PNG)
 ![](Images/Picture2.PNG)
 ![](Images/Picture3.PNG)
-![](Images/Picture4.PNG)
