@@ -1,5 +1,5 @@
 # Particle System
-My Particle System is a particle system with a friendly user-interface to control basic physics functions of each individual particle. 
+My Particle System has a friendly user-interface to control basic physics functions of each individual particle generated.
 
 The project was made doing highschool/college or 'Gymnasie' in Danish. This is a school project in the subject 'Programming B' doing second year. 
 
