@@ -1,7 +1,7 @@
 # Particle System
 My Particle System has a friendly user-interface to control basic physics functions for each individual particle generated.
 
-The project was made doing highschool/college or 'Gymnasie' in Danish. This is a school project in the subject 'Programming B' doing second year. 
+The project was made doing college. This is a school project in the subject 'Programming B' doing second year. 
 
 ### References
 
