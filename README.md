@@ -1,7 +1,7 @@
 # Particle System
-My Particle System has a user-interface to control basic physics functions for each individual particle generated.
+My Particle System has a user-interface to control basic physics attributes given to generated particles.
 
-The project was made doing college. This is a school project in the subject 'Programming B' doing second year. 
+The project was made doing college in the subject 'Programming B' doing second year. 
 
 ### References
 
