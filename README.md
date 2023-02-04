@@ -9,6 +9,9 @@ My Particle System uses a number of open source projects to work properly:
 * [ImGui](https://github.com/ocornut/imgui) - User-Interface for option-interaction
 * [SDL](https://www.libsdl.org/) - Graphical-User-Interface for the window and particles
 
+### Information
+This project does not include a projectfile, you will have to start a new project and include the libraries and files manually. 
+
 ### Illustration
 
 ![](images/Picture1.PNG)
